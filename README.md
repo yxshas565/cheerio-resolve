@@ -4,6 +4,16 @@ An interactive, high-fidelity B2B SaaS prototype for the **Cheerio AI Product In
 
 Cheerio Resolve demonstrates how nontechnical business users move from a support issue to an evidence-backed, verified outcome, turning reviewed procedures into reusable troubleshooting knowledge without speculative hallucinations.
 
+
+## 🚀 Live Demo
+
+**Explore Cheerio Resolve:** [Open the Interactive Prototype](https://cheerio-resolve.vercel.app/)
+
+The deployed prototype demonstrates evidence-first troubleshooting, guided resolution, verification, the Resolution Passport, reusable troubleshooting knowledge, and contextual human escalation.
+
+**Note:** This is a simulated demonstration environment. It does not connect to Cheerio's live systems.
+
+
 ---
 
 ## 1. What's New in Phase 2: Visual Intelligence & Interaction Upgrade
